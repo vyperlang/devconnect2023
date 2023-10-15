@@ -111,8 +111,6 @@ a {
     transition: background-color 0.3s;
 }
 
-
-
 ul {
     list-style-type: none;
     padding-left: 0;
@@ -197,15 +195,9 @@ ul li {
     opacity: .8;
 }
 
-/*.curveLogo {
-    mix-blend-mode:normal!important;
-}*/
-
 html {
     font-family: 'Space Mono', monospace;
 }
-
-/* ... [other styles remain unchanged] ... */
 
 /* Media Queries for mobile with max-width: 768px */
 @media only screen and (max-width: 768px) {
@@ -274,8 +266,6 @@ html {
     .vyperLogo {
         width: 90%;
     }
-
- 
 
     .info.card {
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
