@@ -39,8 +39,8 @@ p {
 }
 
 a {
-    color: rgb(255, 255, 255);
-    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 
 .card {
@@ -192,7 +192,7 @@ ul li {
 }
 
 .sponsor img:hover {
-    opacity: .8;
+    opacity: .9;
 }
 
 html {
@@ -307,4 +307,9 @@ html {
     .scheduleHeader {
         font-size: 32px;
     }
+}
+
+.sponsorFooter a {
+    color:white;
+    text-decoration: none;
 }
